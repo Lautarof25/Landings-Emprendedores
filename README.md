@@ -19,15 +19,30 @@ Potenciar a emprendedores y pequeños negocios con una presencia online elegante
 
 ## 🧩 Landings creadas
 
-A continuación, algunos ejemplos de proyectos desarrollados y publicados:
+Estas propuestas muestran cómo una buena landing puede transformar la identidad de un negocio y captar la atención desde el primer vistazo.
 
-- [Cm Ingles](https://lautarof25.github.io/CmIngles/) — Landing para una propuesta educativa con enfoque claro y moderna.
-- [My English School BV](https://lautarof25.github.io/MyEnglishSchoolBV/) — Diseño pensado para una escuela de inglés con identidad sólida.
-- [Portafolio Profesional](https://lautarof25.github.io/portafolioProfesional/) — Una presentación elegante y personal para destacar experiencia y trayectoria.
-- [Estudio Chucky Tattoo](https://lautarof25.github.io/EstudioChuckyTattoo/) — Landing con fuerte identidad visual para un estudio artístico.
-- [Nails By Abru](https://lautarof25.github.io/NailsByAbru/) — Diseño femenino, sofisticado y orientado a captar atención visual.
-- [Biko Inventor](https://lautarof25.github.io/BikoInventor/) — Página enfocada en mostrar un proyecto con personalidad y carácter.
-- [Shopping Stores](https://lautarof25.github.io/shopping-stores/) — Propuesta con enfoque comercial y experiencia de navegación limpia.
+### ✨ Proyectos que destacan
+
+> [Cm Ingles](https://lautarof25.github.io/CmIngles/)  
+> Landing educativa con estética moderna, mensaje claro y una propuesta visual que invita a explorar.
+
+> [My English School BV](https://lautarof25.github.io/MyEnglishSchoolBV/)  
+> Diseño pensado para una escuela de inglés con identidad sólida, confianza y enfoque comercial.
+
+> [Portafolio Profesional](https://lautarof25.github.io/portafolioProfesional/)  
+> Una presentación elegante y personal para destacar experiencia, trayectoria y presencia profesional.
+
+> [Estudio Chucky Tattoo](https://lautarof25.github.io/EstudioChuckyTattoo/)  
+> Landing con fuerte identidad visual, personalidad artística y una experiencia que resalta el estilo del estudio.
+
+> [Nails By Abru](https://lautarof25.github.io/NailsByAbru/)  
+> Diseño femenino, sofisticado y visualmente impactante, pensado para captar atención de inmediato.
+
+> [Biko Inventor](https://lautarof25.github.io/BikoInventor/)  
+> Página con carácter, creatividad y una propuesta que comunica con fuerza desde el inicio.
+
+> [Shopping Stores](https://lautarof25.github.io/shopping-stores/)  
+> Propuesta con enfoque comercial, navegación limpia y una experiencia visual muy cuidada.
 
 ## 🚀 Filosofía de trabajo
 
